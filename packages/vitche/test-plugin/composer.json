@@ -1,0 +1,14 @@
+{
+    "name": "vitche/test-plugin",
+    "description": "just a test plugin",
+    "type": "composer-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "vit che",
+            "email": "vit.chebotnikov@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
