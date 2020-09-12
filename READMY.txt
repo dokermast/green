@@ -1,0 +1,26 @@
+***********************************************************
+This application has two Entyties (Field & Product)  /for Agricultures/
+
+Every Fields may has several products
+
+Every Product may grows on the several fields
+
+This is the "ManyToMany" relation
+
+****** INSTALLATION
+
+git clone https://github.com/dokermast/green.git
+
+cd (dir)
+
+composer install
+
+create DB
+
+export greenfields.sql from DB_DUMP
+
+create & configure .env (db config, key, mailer ...)
+
+run application
+
+
