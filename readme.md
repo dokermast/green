@@ -17,8 +17,10 @@ composer install
 
 create DB
 
-export greenfields.sql from DB_DUMP
+export green.sql from DB_DUMP
 
 create & configure .env (db config, key, mailer ...)
 
 run application
+
+your may log in using default credentials  ( user@user.com  : User1234 )  or register yourself
