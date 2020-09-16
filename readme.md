@@ -1,4 +1,4 @@
-***********************************************************
+*********************************************************** CRUD test
 This application has two Entyties (Field & Product)  /for Agricultures/
 
 Every Fields may has several products
